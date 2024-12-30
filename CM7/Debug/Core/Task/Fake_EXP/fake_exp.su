@@ -1,0 +1,4 @@
+../Core/Task/Fake_EXP/fake_exp.c:46:6:FAKEEXP_create_task	8	static
+../Core/Task/Fake_EXP/fake_exp.c:51:6:cursor_move_to_fake	56	static
+../Core/Task/Fake_EXP/fake_exp.c:60:13:FAKEEXP_update_task	1064	static
+../Core/Task/Fake_EXP/fake_exp.c:168:6:Fake_Temperature_Update	24	static

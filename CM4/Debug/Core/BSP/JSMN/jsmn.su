@@ -1,0 +1,10 @@
+../Core/BSP/JSMN/jsmn.c:17:19:jsmn_alloc_token	32	static
+../Core/BSP/JSMN/jsmn.c:35:13:jsmn_fill_token	24	static
+../Core/BSP/JSMN/jsmn.c:46:12:jsmn_parse_primitive	32	static
+../Core/BSP/JSMN/jsmn.c:104:12:jsmn_parse_string	40	static
+../Core/BSP/JSMN/jsmn.c:179:14:jsmn_parse	56	static
+../Core/BSP/JSMN/jsmn.c:370:15:jsmn_init	16	static
+../Core/BSP/JSMN/jsmn.c:376:14:jsoneq	24	static
+../Core/BSP/JSMN/jsmn.c:387:6:parse_and_print_json	2320	static
+../Core/BSP/JSMN/jsmn.c:510:7:get_random_delta	8	static
+../Core/BSP/JSMN/jsmn.c:512:5:activate_port	32	static

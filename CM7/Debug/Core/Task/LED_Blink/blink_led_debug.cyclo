@@ -1,0 +1,9 @@
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:884:22:LL_GPIO_SetOutputPin	1
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	1
+../Core/Task/LED_Blink/blink_led_debug.c:51:6:status_led_set_status	1
+../Core/Task/LED_Blink/blink_led_debug.c:57:13:status_led_off	1
+../Core/Task/LED_Blink/blink_led_debug.c:63:13:status_led_on	1
+../Core/Task/LED_Blink/blink_led_debug.c:71:6:status_led_update	4
+../Core/Task/LED_Blink/blink_led_debug.c:89:13:status_led_powerup	5
+../Core/Task/LED_Blink/blink_led_debug.c:119:13:status_led_normal	1
+../Core/Task/LED_Blink/blink_led_debug.c:124:6:status_led_create_task	1

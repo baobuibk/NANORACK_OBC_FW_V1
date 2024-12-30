@@ -1,0 +1,11 @@
+../Core/BSP/FSP/libfsp/fsp.c:12:6:fsp_init	1
+../Core/BSP/FSP/libfsp/fsp.c:17:6:fsp_gen_data_pkt	2
+../Core/BSP/FSP/libfsp/fsp.c:29:6:fsp_gen_cmd_pkt	2
+../Core/BSP/FSP/libfsp/fsp.c:41:6:fsp_gen_cmd_w_data_pkt	2
+../Core/BSP/FSP/libfsp/fsp.c:54:6:fsp_gen_ack_pkt	1
+../Core/BSP/FSP/libfsp/fsp.c:59:6:fsp_gen_nack_pkt	1
+../Core/BSP/FSP/libfsp/fsp.c:65:6:fsp_gen_pkt	3
+../Core/BSP/FSP/libfsp/fsp.c:93:6:frame_encode	11
+../Core/BSP/FSP/libfsp/fsp.c:157:6:fsp_encode	2
+../Core/BSP/FSP/libfsp/fsp.c:179:9:fsp_decode	13
+../Core/BSP/FSP/libfsp/fsp.c:264:5:frame_decode	12

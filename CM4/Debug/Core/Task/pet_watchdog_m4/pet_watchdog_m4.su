@@ -1,0 +1,4 @@
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:884:22:LL_GPIO_SetOutputPin	16	static
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Task/pet_watchdog_m4/pet_watchdog_m4.c:35:6:Watchdog_M4_create_task	8	static
+../Core/Task/pet_watchdog_m4/pet_watchdog_m4.c:41:6:status_watchdog_update	8	static

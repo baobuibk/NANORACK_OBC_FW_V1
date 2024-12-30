@@ -1,0 +1,10 @@
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:884:22:LL_GPIO_SetOutputPin	1
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	1
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:46:20:ADS8327_SPI_Select	1
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:50:20:ADS8327_SPI_Deselect	1
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:54:6:ADS8327_Init	2
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:67:10:ADS8327_ConfigRegRead	2
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:99:6:ADS8327_RegWrite16	2
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:111:6:ADS8327_SelectChannel	1
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:119:6:ADS8327_RegWrite4	2
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:133:8:ADS8327_Read	3

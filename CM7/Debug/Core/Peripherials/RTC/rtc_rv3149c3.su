@@ -1,0 +1,16 @@
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:884:22:LL_GPIO_SetOutputPin	16	static
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:16:20:prv_assert_cs	8	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:20:20:prv_deassert_cs	8	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:24:6:init_rtc	8	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:63:6:rtc_sync_ll	32	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:93:17:rtc_get_date_time	16	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:97:10:rtc_get_unix_time	4	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:101:6:rtc_set_date_time	32	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:134:6:rtc_set_date_time_from_epoch	40	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:143:7:rtc_get_timestamp	40	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:151:17:prv_make_unix_time	64	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:167:24:prv_make_date_time_from_epoch	80	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:181:6:rtc_sync_time	8	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:185:6:rtc_get_hard_time	40	static
+../Core/Peripherials/RTC/rtc_rv3149c3.c:208:6:rtc_get_soft_time	32	static

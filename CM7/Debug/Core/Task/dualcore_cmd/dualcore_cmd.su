@@ -1,0 +1,3 @@
+../Core/Task/dualcore_cmd/dualcore_cmd.c:47:6:DUALCORECMD_create_task	8	static
+../Core/Task/dualcore_cmd/dualcore_cmd.c:52:13:DUALCORECMD_update_task	48	dynamic
+../Core/Task/dualcore_cmd/dualcore_cmd.c:76:6:parse_and_update_laser_status	24	static

@@ -1,0 +1,10 @@
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:1830:26:LL_SPI_IsActiveFlag_TXC	2
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:1841:26:LL_SPI_IsActiveFlag_RXWNE	2
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:2450:25:LL_SPI_ReceiveData8	1
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:2461:26:LL_SPI_ReceiveData16	1
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:2489:22:LL_SPI_TransmitData8	1
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:2501:22:LL_SPI_TransmitData16	1
+../Core/Peripherials/SPI/spi.c:14:9:SPI_LL_Transmit	5
+../Core/Peripherials/SPI/spi.c:40:10:SPI_LL_Transmit16	7
+../Core/Peripherials/SPI/spi.c:60:8:SPI_LL_Write	3
+../Core/Peripherials/SPI/spi.c:76:6:SPI_LL_TransmitArray	2

@@ -1,0 +1,15 @@
+../BSP/Scheduler_M7/scheduler.c:53:25:SCH_TASK_GetTaskContext	2
+../BSP/Scheduler_M7/scheduler.c:70:6:SCH_Initialize	1
+../BSP/Scheduler_M7/scheduler.c:93:6:SCH_TIM_Start	2
+../BSP/Scheduler_M7/scheduler.c:110:10:SCH_TIM_HasCompleted	1
+../BSP/Scheduler_M7/scheduler.c:122:10:SCH_TASK_ResumeTask	2
+../BSP/Scheduler_M7/scheduler.c:144:10:SCH_TASK_StopTask	2
+../BSP/Scheduler_M7/scheduler.c:166:10:SCH_TASK_CreateTask	4
+../BSP/Scheduler_M7/scheduler.c:204:10:SCH_TIM_CreateTimer	4
+../BSP/Scheduler_M7/scheduler.c:239:10:SCH_TIM_RestartTimer	2
+../BSP/Scheduler_M7/scheduler.c:261:10:SCH_TIM_StopTimer	2
+../BSP/Scheduler_M7/scheduler.c:282:6:SCH_RunSystemTickTimer	10
+../BSP/Scheduler_M7/scheduler.c:356:6:SCH_StartSchedular	1
+../BSP/Scheduler_M7/scheduler.c:369:6:SCH_StopSchedular	1
+../BSP/Scheduler_M7/scheduler.c:385:6:SCH_HandleScheduledTask	8
+../BSP/Scheduler_M7/scheduler.c:449:10:SCH_SystemTick	1

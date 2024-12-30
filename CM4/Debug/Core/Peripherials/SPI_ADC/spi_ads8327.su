@@ -1,0 +1,10 @@
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:884:22:LL_GPIO_SetOutputPin	16	static
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:46:20:ADS8327_SPI_Select	8	static
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:50:20:ADS8327_SPI_Deselect	8	static
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:54:6:ADS8327_Init	16	static
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:67:10:ADS8327_ConfigRegRead	24	static
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:99:6:ADS8327_RegWrite16	24	static
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:111:6:ADS8327_SelectChannel	16	static
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:119:6:ADS8327_RegWrite4	24	static
+../Core/Peripherials/SPI_ADC/spi_ads8327.c:133:8:ADS8327_Read	32	static,ignoring_inline_asm

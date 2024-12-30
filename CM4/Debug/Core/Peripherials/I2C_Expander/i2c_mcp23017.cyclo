@@ -1,0 +1,10 @@
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:48:16:MCP23017_RegForPin	2
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:52:16:MCP23017_BitForPin	1
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:60:26:MCP23017_UpdateRegisterBit	2
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:72:26:MCP23017_ReadRegister	1
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:79:33:MCP23017_WriteRegister	1
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:86:26:MCP23017_Init	4
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:117:26:MCP23017_PortMode	8
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:134:26:MCP23017_PinMode	6
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:154:26:MCP23017_DigitalRead	1
+../Core/Peripherials/I2C_Expander/i2c_mcp23017.c:162:26:MCP23017_DigitalWrite	3

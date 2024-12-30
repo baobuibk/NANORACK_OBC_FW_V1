@@ -1,0 +1,2 @@
+../BSP/Logger/log.c:11:13:log_level_to_string	16	static
+../BSP/Logger/log.c:23:6:log_create	48	static

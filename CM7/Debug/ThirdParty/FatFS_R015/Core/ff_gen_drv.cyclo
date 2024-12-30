@@ -1,0 +1,5 @@
+../ThirdParty/FatFS_R015/Core/ff_gen_drv.c:40:9:FATFS_LinkDriverEx	2
+../ThirdParty/FatFS_R015/Core/ff_gen_drv.c:69:9:FATFS_LinkDriver	1
+../ThirdParty/FatFS_R015/Core/ff_gen_drv.c:81:9:FATFS_UnLinkDriverEx	3
+../ThirdParty/FatFS_R015/Core/ff_gen_drv.c:107:9:FATFS_UnLinkDriver	1
+../ThirdParty/FatFS_R015/Core/ff_gen_drv.c:117:9:FATFS_GetAttachedDriversNbr	1

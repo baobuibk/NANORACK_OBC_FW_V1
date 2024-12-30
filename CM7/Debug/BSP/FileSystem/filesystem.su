@@ -1,0 +1,9 @@
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:884:22:LL_GPIO_SetOutputPin	16	static
+../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	16	static
+../BSP/FileSystem/filesystem.c:28:6:SD_Lockin	8	static
+../BSP/FileSystem/filesystem.c:41:6:SD_Release	8	static
+../BSP/FileSystem/filesystem.c:55:6:FS_ListFiles_path	776	static
+../BSP/FileSystem/filesystem.c:103:6:Link_SDFS_Driver	16	static
+../BSP/FileSystem/filesystem.c:121:5:Cat_SDFS	4736	static
+../BSP/FileSystem/filesystem.c:155:5:Nano_SDFS	4608	static
+../BSP/FileSystem/filesystem.c:192:5:Vim_SDFS	4608	static

@@ -1,0 +1,7 @@
+../Core/Task/blink_led_debug/blink_led_debug.c:50:6:status_led_set_status	1
+../Core/Task/blink_led_debug/blink_led_debug.c:56:13:status_led_off	1
+../Core/Task/blink_led_debug/blink_led_debug.c:62:13:status_led_on	1
+../Core/Task/blink_led_debug/blink_led_debug.c:70:6:status_led_update	4
+../Core/Task/blink_led_debug/blink_led_debug.c:88:13:status_led_powerup	5
+../Core/Task/blink_led_debug/blink_led_debug.c:117:13:status_led_normal	1
+../Core/Task/blink_led_debug/blink_led_debug.c:122:6:status_led_create_task	1

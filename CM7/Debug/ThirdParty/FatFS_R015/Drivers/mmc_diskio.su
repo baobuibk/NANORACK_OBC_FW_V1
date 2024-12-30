@@ -1,0 +1,12 @@
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:112:16:MMC1_CheckStatus	16	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:134:9:MMC1_initialize	16	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:161:9:MMC1_status	16	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:174:9:MMC1_read	32	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:225:9:MMC1_write	32	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:261:9:MMC1_ioctl	48	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:350:16:MMC2_CheckStatus	16	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:372:9:MMC2_initialize	16	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:397:9:MMC2_status	16	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:410:9:MMC2_read	32	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:459:9:MMC2_write	32	static
+../ThirdParty/FatFS_R015/Drivers/mmc_diskio.c:495:9:MMC2_ioctl	48	static

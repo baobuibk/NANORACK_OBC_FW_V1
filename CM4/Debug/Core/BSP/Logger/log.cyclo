@@ -1,0 +1,2 @@
+../Core/BSP/Logger/log.c:10:13:log_level_to_string	7
+../Core/BSP/Logger/log.c:22:6:log_create	3

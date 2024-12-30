@@ -1,0 +1,4 @@
+../BSP/VCP_Ringbuffer/vcp_ringbuffer.c:23:5:fifo_is_full	1
+../BSP/VCP_Ringbuffer/vcp_ringbuffer.c:27:5:fifo_is_empty	1
+../BSP/VCP_Ringbuffer/vcp_ringbuffer.c:31:6:fifo_push	2
+../BSP/VCP_Ringbuffer/vcp_ringbuffer.c:40:5:fifo_pop	2

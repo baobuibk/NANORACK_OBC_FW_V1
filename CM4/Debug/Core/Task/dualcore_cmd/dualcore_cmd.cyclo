@@ -1,0 +1,2 @@
+../Core/Task/dualcore_cmd/dualcore_cmd.c:43:6:DUALCORECMD_create_task	1
+../Core/Task/dualcore_cmd/dualcore_cmd.c:48:13:DUALCORECMD_update_task	2
